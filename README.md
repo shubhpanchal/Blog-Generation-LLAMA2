@@ -7,3 +7,12 @@
 
 
 ## Create a folder named "models" and save the model downloaded from hugging face.
+
+## Create a conda environment:
+conda create -p Env_Name python=3.8 --y
+
+## Download requirements
+pip install -r requirements .txt
+
+## Run app
+streamlit run app.py
